@@ -1,0 +1,24 @@
+{
+  "name": "المحلل الكيميائي",
+  "short_name": "محلل كيميائي",
+  "description": "تطبيق ويب للحصول على معلومات كيميائية موسوعية حول العناصر والمركبات، بما في ذلك الخصائص الفيزيائية والكيميائية، البنية الجزيئية، معلومات السلامة، تفاصيل الاكتشاف التاريخية، الوفرة الطبيعية، والنظائر.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#0891b2",
+  "orientation": "portrait-primary",
+  "dir": "rtl",
+  "lang": "ar-SA",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
